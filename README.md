@@ -1,2 +1,2 @@
 # Java
-My journey of learning Java
+Journey of learning Java
